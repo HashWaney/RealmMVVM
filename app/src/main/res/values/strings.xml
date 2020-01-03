@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RealmMVVM</string>
+    <string name="sync_data">Sync Data</string>
+    <string name="get_data">Get Data</string>
+
+    <string name="sync_message">Empty List</string>
+    <string name="order_title">Order (%s)</string>
+    <string name="customer_info">%s (%s)</string>
+    <string name="product_info">%s (%s)</string>
+    <string name="price_info">Qty:%s, Dis:%s, Prof:%s</string>
+</resources>
